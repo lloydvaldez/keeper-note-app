@@ -1,4 +1,5 @@
 # Keeper App
+![keeper-app-preview](https://user-images.githubusercontent.com/95662717/192468979-23d7446d-0d88-497a-9324-fc677792935e.PNG)
 
 A note taking app built using React. This is the first project that introduced me to React.
 
